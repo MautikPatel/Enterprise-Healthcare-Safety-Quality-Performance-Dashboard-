@@ -1,4 +1,4 @@
-# 🏥 Enterprise Healthcare Performance Dashboard
+# 🏥 Enterprise Healthcare Safety & Quality Performance Dashboard
 ### Safety • Quality • Efficiency • Executive Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
